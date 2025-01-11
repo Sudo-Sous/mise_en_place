@@ -1,2 +1,2 @@
-# mise_en_place
+# Mise En Place
 AI-enabled Startup Planner for Notion
